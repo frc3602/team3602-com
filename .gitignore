@@ -1,0 +1,4 @@
+# Gatsby Stuff
+node_modules/
+.cache/
+public/
