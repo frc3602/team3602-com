@@ -21,7 +21,7 @@ export default function Header() {
             </ul>
           </div>
           <div class="dropdown dropdown-end md:hidden">
-            <label tabindex="0" class="m-1 btn bg-base-300 active:bg-orange-500 hover:bg-base-100 btn-ghost lg:hidden"><i class="fa-solid fa-bars"></i></label>
+            <label tabindex="0" class="m-1 btn bg-base-300 active:bg-orange-500 hover:bg-base-100 btn-ghost lg:hidden"><i class="fa-solid fa-bars fa-2xl"></i></label>
             <ul tabindex="0" class="p-2 shadow menu dropdown-content bg-base-100 rounded-box w-52">
               <li><a href="/" class="active:bg-orange-500">Home</a></li>
               <li><a href="/sponsors" class="active:bg-orange-500">Sponsors</a></li>
