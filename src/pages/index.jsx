@@ -22,7 +22,7 @@ const IndexPage = () => {
             <div>
               <h1 class="text-5xl font-bold">We are Team 3602!</h1>
               <p class="py-6">We are FIRST Robotics Competition Team 3602, The RoboMos, from Escanaba Senior High School in Escanaba, Michigan. Our team was founded back in 2010 and ever since then we have had the great Marie Young and Gabe Kluka as our team lead mentors. We also mentor two FIRST Tech Challenge teams and one FIRST LEGO League team.</p>
-              <button class="btn bg-orange-500 hover:bg-orange-600">Learn More</button>
+              <button class="btn btn-ghost bg-orange-500 hover:bg-orange-600"><a href="/about">Learn More</a></button>
             </div>
           </div>
         </div>
