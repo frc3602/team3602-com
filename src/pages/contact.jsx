@@ -15,7 +15,7 @@ const ContactPage = () => {
         <script src="https://kit.fontawesome.com/97db0162e4.js" crossorigin="anonymous"></script>
       </Helmet>
       <Header></Header>
-      <h1>Contact</h1>
+      <h1 class="text-4xl font-bold p-12 pl-20 pr-20">Contact Us</h1>
       <Footer></Footer>
     </body>
   )

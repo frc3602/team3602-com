@@ -40,5 +40,3 @@ const IndexPage = () => {
 
 // Export Component
 export default IndexPage
-
-
