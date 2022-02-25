@@ -1,5 +1,6 @@
 // Imports
 import * as React from 'react'
+import { StaticImage } from 'gatsby-plugin-image'
 
 // Export Component
 export default function Header() {
@@ -8,7 +9,7 @@ export default function Header() {
       <div class="navbar bg-base-300">
         <div class="navbar-start">
           <div class="flex-1">
-            <a href="/" class="btn btn-ghost normal-case text-xl active:bg-orange-500"><i class="fa-solid fa-robot fa-lg"></i>&nbsp;Team 3602</a>
+            <a href="/" class="btn btn-ghost normal-case text-xl active:bg-orange-500"><StaticImage src="../images/logo.png" width={35} height={44} />&nbsp;Team 3602</a>
           </div>
         </div>
         <div class="navbar-end">

@@ -1,12 +1,13 @@
 // Imports
 import * as React from 'react'
+import { StaticImage } from 'gatsby-plugin-image'
 
 // Export Component
 export default function Footer() {
   return (
     <footer class="p-10 footer bg-base-300 text-neutral-content">
       <div>
-        <i class="fa-solid fa-robot fa-3x"></i>
+      <StaticImage src="../images/logo.png" width={35} height={44} />
         <p>FRC Team 3602, The RoboMos</p>
         <p>Copyright © 2022 Team 3602 - All Rights Reserved.</p>
       </div>
