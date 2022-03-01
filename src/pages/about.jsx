@@ -35,7 +35,7 @@ const AboutPage = () => {
         <div class="w-full md:w-1/3 lg:w-1/5 px-2 mb-4">
           <div class="flex items-center justify-center">
             <div class="card w-80 bg-base-300 shadow-xl">
-              <figure><StaticImage src="../images/build.jpg" alt="Build" /></figure>
+              <figure><StaticImage src="../images/media.jpg" alt="Build" /></figure>
               <div class="card-body">
                 <h2 class="card-title">Media</h2>
                 <p>Build team does precisely what you'd think they
