@@ -16,6 +16,16 @@ const IndexPage = () => {
       </Helmet>
       <Header></Header>
       <main>
+        <div class="hero min-h-screen bg-base-100">
+          <div class="hero-content text-center">
+            <div class="max-w-md">
+              <h1 class="text-5xl font-bold">Come Watch Us!</h1>
+              <p class="py-6">Click on the button below to come watch us and many other incredible teams compete at our home event at Escanaba High School.</p>
+              <button class="btn btn-ghost bg-orange-500 hover:bg-orange-600"><a href="https://www.twitch.tv/firstinspires25">Watch Us</a></button>
+            </div>
+          </div>
+        </div>
+
         <div class="hero min-h-fit bg-base-100" style={{ marginTop: 100, marginBottom: 100 }}>
           <div class="flex-col hero-content lg:flex-row">
             <StaticImage src="../images/teamphoto.jpg" class="max-w-2xl rounded-lg shadow-2xl" />
