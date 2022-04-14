@@ -52,7 +52,7 @@ const AboutPage = () => {
               <figure><StaticImage src="../images/programming.jpg" alt="Build" /></figure>
               <div class="card-body">
                 <h2 class="card-title">Programming</h2>
-                <p>Robots need instructions to run. The Programming
+                <p>Robots need instructions to run. The S
                   Team along with all their bits and bytes, write
                   these instructions. They are the brains of the
                   operation. We'd all bark and no bite without them!</p>
